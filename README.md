@@ -5,7 +5,7 @@ Welcome to the Dice Roll project! This project is a simple yet fun implementatio
 ## Features
 + Roll any number of dice with any number of sides.
 + View individual dice roll results.
-+ Simple and intuitive command-line interface.
++ Simple and intuitive user interface.
 
 ### Tech Used: 
 + HTML
